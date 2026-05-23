@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.secrets/
+artifacts/
+cache/
+broadcast/
+typechain-types/
+deployments/
+*.pem
+*.key
+*wallet*.json
+.DS_Store
